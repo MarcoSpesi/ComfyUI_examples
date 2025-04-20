@@ -9,3 +9,4 @@ Here is an example:
 You can load this image in [ComfyUI](https://github.com/comfyanonymous/ComfyUI) to get the workflow.
 
 If you are looking for upscale models to use you can find some on [OpenModelDB](https://openmodeldb.info/)
+Markdown Note
